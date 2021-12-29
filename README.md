@@ -89,3 +89,7 @@ You can edit owner and other in `'./settings/config.json'`
 - Penyedia module
 - Teman" yang selalu support saya
 - Kalian semua 🛐
+
+
+# INI RECODE MILIK ZEEONEOFC 
+
